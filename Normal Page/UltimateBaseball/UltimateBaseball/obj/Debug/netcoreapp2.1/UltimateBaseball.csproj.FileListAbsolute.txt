@@ -1,0 +1,21 @@
+C:\Users\Administrator\source\repos\UltimateBaseball\UltimateBaseball\bin\Debug\netcoreapp2.1\UltimateBaseball.deps.json
+C:\Users\Administrator\source\repos\UltimateBaseball\UltimateBaseball\bin\Debug\netcoreapp2.1\UltimateBaseball.runtimeconfig.json
+C:\Users\Administrator\source\repos\UltimateBaseball\UltimateBaseball\bin\Debug\netcoreapp2.1\UltimateBaseball.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\UltimateBaseball\UltimateBaseball\bin\Debug\netcoreapp2.1\UltimateBaseball.dll
+C:\Users\Administrator\source\repos\UltimateBaseball\UltimateBaseball\bin\Debug\netcoreapp2.1\UltimateBaseball.pdb
+C:\Users\Administrator\source\repos\UltimateBaseball\UltimateBaseball\obj\Debug\netcoreapp2.1\UltimateBaseball.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\UltimateBaseball\UltimateBaseball\obj\Debug\netcoreapp2.1\UltimateBaseball.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\UltimateBaseball\UltimateBaseball\obj\Debug\netcoreapp2.1\UltimateBaseball.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\UltimateBaseball\UltimateBaseball\obj\Debug\netcoreapp2.1\UltimateBaseball.dll
+C:\Users\Administrator\source\repos\UltimateBaseball\UltimateBaseball\obj\Debug\netcoreapp2.1\UltimateBaseball.pdb
+D:\Kreimben Repository\C#\교재\UltimateBaseball\UltimateBaseball\bin\Debug\netcoreapp2.1\UltimateBaseball.deps.json
+D:\Kreimben Repository\C#\교재\UltimateBaseball\UltimateBaseball\bin\Debug\netcoreapp2.1\UltimateBaseball.runtimeconfig.json
+D:\Kreimben Repository\C#\교재\UltimateBaseball\UltimateBaseball\bin\Debug\netcoreapp2.1\UltimateBaseball.runtimeconfig.dev.json
+D:\Kreimben Repository\C#\교재\UltimateBaseball\UltimateBaseball\bin\Debug\netcoreapp2.1\UltimateBaseball.dll
+D:\Kreimben Repository\C#\교재\UltimateBaseball\UltimateBaseball\bin\Debug\netcoreapp2.1\UltimateBaseball.pdb
+D:\Kreimben Repository\C#\교재\UltimateBaseball\UltimateBaseball\obj\Debug\netcoreapp2.1\UltimateBaseball.csprojAssemblyReference.cache
+D:\Kreimben Repository\C#\교재\UltimateBaseball\UltimateBaseball\obj\Debug\netcoreapp2.1\UltimateBaseball.csproj.CoreCompileInputs.cache
+D:\Kreimben Repository\C#\교재\UltimateBaseball\UltimateBaseball\obj\Debug\netcoreapp2.1\UltimateBaseball.AssemblyInfoInputs.cache
+D:\Kreimben Repository\C#\교재\UltimateBaseball\UltimateBaseball\obj\Debug\netcoreapp2.1\UltimateBaseball.AssemblyInfo.cs
+D:\Kreimben Repository\C#\교재\UltimateBaseball\UltimateBaseball\obj\Debug\netcoreapp2.1\UltimateBaseball.dll
+D:\Kreimben Repository\C#\교재\UltimateBaseball\UltimateBaseball\obj\Debug\netcoreapp2.1\UltimateBaseball.pdb

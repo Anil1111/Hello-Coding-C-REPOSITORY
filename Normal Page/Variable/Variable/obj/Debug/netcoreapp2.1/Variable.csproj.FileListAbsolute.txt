@@ -1,0 +1,10 @@
+D:\Kreimben Repository\C#\교재\Variable\Variable\bin\Debug\netcoreapp2.1\Variable.deps.json
+D:\Kreimben Repository\C#\교재\Variable\Variable\bin\Debug\netcoreapp2.1\Variable.runtimeconfig.json
+D:\Kreimben Repository\C#\교재\Variable\Variable\bin\Debug\netcoreapp2.1\Variable.runtimeconfig.dev.json
+D:\Kreimben Repository\C#\교재\Variable\Variable\bin\Debug\netcoreapp2.1\Variable.dll
+D:\Kreimben Repository\C#\교재\Variable\Variable\bin\Debug\netcoreapp2.1\Variable.pdb
+D:\Kreimben Repository\C#\교재\Variable\Variable\obj\Debug\netcoreapp2.1\Variable.csproj.CoreCompileInputs.cache
+D:\Kreimben Repository\C#\교재\Variable\Variable\obj\Debug\netcoreapp2.1\Variable.AssemblyInfoInputs.cache
+D:\Kreimben Repository\C#\교재\Variable\Variable\obj\Debug\netcoreapp2.1\Variable.AssemblyInfo.cs
+D:\Kreimben Repository\C#\교재\Variable\Variable\obj\Debug\netcoreapp2.1\Variable.dll
+D:\Kreimben Repository\C#\교재\Variable\Variable\obj\Debug\netcoreapp2.1\Variable.pdb

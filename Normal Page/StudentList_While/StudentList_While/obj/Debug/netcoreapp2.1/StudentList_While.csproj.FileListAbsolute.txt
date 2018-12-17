@@ -1,0 +1,11 @@
+D:\Kreimben Repository\C#\교재\StudentList_While\StudentList_While\bin\Debug\netcoreapp2.1\StudentList_While.deps.json
+D:\Kreimben Repository\C#\교재\StudentList_While\StudentList_While\bin\Debug\netcoreapp2.1\StudentList_While.runtimeconfig.json
+D:\Kreimben Repository\C#\교재\StudentList_While\StudentList_While\bin\Debug\netcoreapp2.1\StudentList_While.runtimeconfig.dev.json
+D:\Kreimben Repository\C#\교재\StudentList_While\StudentList_While\bin\Debug\netcoreapp2.1\StudentList_While.dll
+D:\Kreimben Repository\C#\교재\StudentList_While\StudentList_While\bin\Debug\netcoreapp2.1\StudentList_While.pdb
+D:\Kreimben Repository\C#\교재\StudentList_While\StudentList_While\obj\Debug\netcoreapp2.1\StudentList_While.csprojAssemblyReference.cache
+D:\Kreimben Repository\C#\교재\StudentList_While\StudentList_While\obj\Debug\netcoreapp2.1\StudentList_While.csproj.CoreCompileInputs.cache
+D:\Kreimben Repository\C#\교재\StudentList_While\StudentList_While\obj\Debug\netcoreapp2.1\StudentList_While.AssemblyInfoInputs.cache
+D:\Kreimben Repository\C#\교재\StudentList_While\StudentList_While\obj\Debug\netcoreapp2.1\StudentList_While.AssemblyInfo.cs
+D:\Kreimben Repository\C#\교재\StudentList_While\StudentList_While\obj\Debug\netcoreapp2.1\StudentList_While.dll
+D:\Kreimben Repository\C#\교재\StudentList_While\StudentList_While\obj\Debug\netcoreapp2.1\StudentList_While.pdb
