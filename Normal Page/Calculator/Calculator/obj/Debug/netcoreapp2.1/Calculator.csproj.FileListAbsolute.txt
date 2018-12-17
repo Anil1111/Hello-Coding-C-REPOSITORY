@@ -1,0 +1,10 @@
+D:\Kreimben Repository\C#\교재\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.deps.json
+D:\Kreimben Repository\C#\교재\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.json
+D:\Kreimben Repository\C#\교재\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.dev.json
+D:\Kreimben Repository\C#\교재\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.dll
+D:\Kreimben Repository\C#\교재\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.pdb
+D:\Kreimben Repository\C#\교재\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csproj.CoreCompileInputs.cache
+D:\Kreimben Repository\C#\교재\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfoInputs.cache
+D:\Kreimben Repository\C#\교재\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfo.cs
+D:\Kreimben Repository\C#\교재\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.dll
+D:\Kreimben Repository\C#\교재\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.pdb

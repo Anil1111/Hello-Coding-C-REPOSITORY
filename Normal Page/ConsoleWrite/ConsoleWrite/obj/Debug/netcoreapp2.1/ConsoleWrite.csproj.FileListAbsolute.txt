@@ -1,0 +1,11 @@
+D:\Kreimben Repository\C#\교재\ConsoleWrite\ConsoleWrite\bin\Debug\netcoreapp2.1\ConsoleWrite.deps.json
+D:\Kreimben Repository\C#\교재\ConsoleWrite\ConsoleWrite\bin\Debug\netcoreapp2.1\ConsoleWrite.runtimeconfig.json
+D:\Kreimben Repository\C#\교재\ConsoleWrite\ConsoleWrite\bin\Debug\netcoreapp2.1\ConsoleWrite.runtimeconfig.dev.json
+D:\Kreimben Repository\C#\교재\ConsoleWrite\ConsoleWrite\bin\Debug\netcoreapp2.1\ConsoleWrite.dll
+D:\Kreimben Repository\C#\교재\ConsoleWrite\ConsoleWrite\bin\Debug\netcoreapp2.1\ConsoleWrite.pdb
+D:\Kreimben Repository\C#\교재\ConsoleWrite\ConsoleWrite\obj\Debug\netcoreapp2.1\ConsoleWrite.csprojAssemblyReference.cache
+D:\Kreimben Repository\C#\교재\ConsoleWrite\ConsoleWrite\obj\Debug\netcoreapp2.1\ConsoleWrite.csproj.CoreCompileInputs.cache
+D:\Kreimben Repository\C#\교재\ConsoleWrite\ConsoleWrite\obj\Debug\netcoreapp2.1\ConsoleWrite.AssemblyInfoInputs.cache
+D:\Kreimben Repository\C#\교재\ConsoleWrite\ConsoleWrite\obj\Debug\netcoreapp2.1\ConsoleWrite.AssemblyInfo.cs
+D:\Kreimben Repository\C#\교재\ConsoleWrite\ConsoleWrite\obj\Debug\netcoreapp2.1\ConsoleWrite.dll
+D:\Kreimben Repository\C#\교재\ConsoleWrite\ConsoleWrite\obj\Debug\netcoreapp2.1\ConsoleWrite.pdb

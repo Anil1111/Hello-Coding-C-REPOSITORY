@@ -1,0 +1,10 @@
+D:\Kreimben Repository\C#\교재\DoorLock\DoorLock\bin\Debug\netcoreapp2.1\DoorLock.deps.json
+D:\Kreimben Repository\C#\교재\DoorLock\DoorLock\bin\Debug\netcoreapp2.1\DoorLock.runtimeconfig.json
+D:\Kreimben Repository\C#\교재\DoorLock\DoorLock\bin\Debug\netcoreapp2.1\DoorLock.runtimeconfig.dev.json
+D:\Kreimben Repository\C#\교재\DoorLock\DoorLock\bin\Debug\netcoreapp2.1\DoorLock.dll
+D:\Kreimben Repository\C#\교재\DoorLock\DoorLock\bin\Debug\netcoreapp2.1\DoorLock.pdb
+D:\Kreimben Repository\C#\교재\DoorLock\DoorLock\obj\Debug\netcoreapp2.1\DoorLock.csproj.CoreCompileInputs.cache
+D:\Kreimben Repository\C#\교재\DoorLock\DoorLock\obj\Debug\netcoreapp2.1\DoorLock.AssemblyInfoInputs.cache
+D:\Kreimben Repository\C#\교재\DoorLock\DoorLock\obj\Debug\netcoreapp2.1\DoorLock.AssemblyInfo.cs
+D:\Kreimben Repository\C#\교재\DoorLock\DoorLock\obj\Debug\netcoreapp2.1\DoorLock.dll
+D:\Kreimben Repository\C#\교재\DoorLock\DoorLock\obj\Debug\netcoreapp2.1\DoorLock.pdb
