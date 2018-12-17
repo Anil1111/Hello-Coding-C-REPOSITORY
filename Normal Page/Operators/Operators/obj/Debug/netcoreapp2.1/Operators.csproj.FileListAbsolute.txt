@@ -1,0 +1,11 @@
+D:\Kreimben Repository\C#\교재\Operators\Operators\bin\Debug\netcoreapp2.1\Operators.deps.json
+D:\Kreimben Repository\C#\교재\Operators\Operators\bin\Debug\netcoreapp2.1\Operators.runtimeconfig.json
+D:\Kreimben Repository\C#\교재\Operators\Operators\bin\Debug\netcoreapp2.1\Operators.runtimeconfig.dev.json
+D:\Kreimben Repository\C#\교재\Operators\Operators\bin\Debug\netcoreapp2.1\Operators.dll
+D:\Kreimben Repository\C#\교재\Operators\Operators\bin\Debug\netcoreapp2.1\Operators.pdb
+D:\Kreimben Repository\C#\교재\Operators\Operators\obj\Debug\netcoreapp2.1\Operators.csprojAssemblyReference.cache
+D:\Kreimben Repository\C#\교재\Operators\Operators\obj\Debug\netcoreapp2.1\Operators.csproj.CoreCompileInputs.cache
+D:\Kreimben Repository\C#\교재\Operators\Operators\obj\Debug\netcoreapp2.1\Operators.AssemblyInfoInputs.cache
+D:\Kreimben Repository\C#\교재\Operators\Operators\obj\Debug\netcoreapp2.1\Operators.AssemblyInfo.cs
+D:\Kreimben Repository\C#\교재\Operators\Operators\obj\Debug\netcoreapp2.1\Operators.dll
+D:\Kreimben Repository\C#\교재\Operators\Operators\obj\Debug\netcoreapp2.1\Operators.pdb
