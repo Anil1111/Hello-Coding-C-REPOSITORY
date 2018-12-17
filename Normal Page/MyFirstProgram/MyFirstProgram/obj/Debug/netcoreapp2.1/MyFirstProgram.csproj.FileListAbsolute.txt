@@ -1,0 +1,11 @@
+D:\Kreimben Repository\C#\교재\MyFirstProgram\MyFirstProgram\bin\Debug\netcoreapp2.1\MyFirstProgram.deps.json
+D:\Kreimben Repository\C#\교재\MyFirstProgram\MyFirstProgram\bin\Debug\netcoreapp2.1\MyFirstProgram.runtimeconfig.json
+D:\Kreimben Repository\C#\교재\MyFirstProgram\MyFirstProgram\bin\Debug\netcoreapp2.1\MyFirstProgram.runtimeconfig.dev.json
+D:\Kreimben Repository\C#\교재\MyFirstProgram\MyFirstProgram\bin\Debug\netcoreapp2.1\MyFirstProgram.dll
+D:\Kreimben Repository\C#\교재\MyFirstProgram\MyFirstProgram\bin\Debug\netcoreapp2.1\MyFirstProgram.pdb
+D:\Kreimben Repository\C#\교재\MyFirstProgram\MyFirstProgram\obj\Debug\netcoreapp2.1\MyFirstProgram.csprojAssemblyReference.cache
+D:\Kreimben Repository\C#\교재\MyFirstProgram\MyFirstProgram\obj\Debug\netcoreapp2.1\MyFirstProgram.csproj.CoreCompileInputs.cache
+D:\Kreimben Repository\C#\교재\MyFirstProgram\MyFirstProgram\obj\Debug\netcoreapp2.1\MyFirstProgram.AssemblyInfoInputs.cache
+D:\Kreimben Repository\C#\교재\MyFirstProgram\MyFirstProgram\obj\Debug\netcoreapp2.1\MyFirstProgram.AssemblyInfo.cs
+D:\Kreimben Repository\C#\교재\MyFirstProgram\MyFirstProgram\obj\Debug\netcoreapp2.1\MyFirstProgram.dll
+D:\Kreimben Repository\C#\교재\MyFirstProgram\MyFirstProgram\obj\Debug\netcoreapp2.1\MyFirstProgram.pdb

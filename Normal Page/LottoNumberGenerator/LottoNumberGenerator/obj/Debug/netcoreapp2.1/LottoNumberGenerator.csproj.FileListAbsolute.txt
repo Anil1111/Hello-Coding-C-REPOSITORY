@@ -1,0 +1,11 @@
+D:\Kreimben Repository\C#\교재\LottoNumberGenerator\LottoNumberGenerator\bin\Debug\netcoreapp2.1\LottoNumberGenerator.deps.json
+D:\Kreimben Repository\C#\교재\LottoNumberGenerator\LottoNumberGenerator\bin\Debug\netcoreapp2.1\LottoNumberGenerator.runtimeconfig.json
+D:\Kreimben Repository\C#\교재\LottoNumberGenerator\LottoNumberGenerator\bin\Debug\netcoreapp2.1\LottoNumberGenerator.runtimeconfig.dev.json
+D:\Kreimben Repository\C#\교재\LottoNumberGenerator\LottoNumberGenerator\bin\Debug\netcoreapp2.1\LottoNumberGenerator.dll
+D:\Kreimben Repository\C#\교재\LottoNumberGenerator\LottoNumberGenerator\bin\Debug\netcoreapp2.1\LottoNumberGenerator.pdb
+D:\Kreimben Repository\C#\교재\LottoNumberGenerator\LottoNumberGenerator\obj\Debug\netcoreapp2.1\LottoNumberGenerator.csprojAssemblyReference.cache
+D:\Kreimben Repository\C#\교재\LottoNumberGenerator\LottoNumberGenerator\obj\Debug\netcoreapp2.1\LottoNumberGenerator.csproj.CoreCompileInputs.cache
+D:\Kreimben Repository\C#\교재\LottoNumberGenerator\LottoNumberGenerator\obj\Debug\netcoreapp2.1\LottoNumberGenerator.AssemblyInfoInputs.cache
+D:\Kreimben Repository\C#\교재\LottoNumberGenerator\LottoNumberGenerator\obj\Debug\netcoreapp2.1\LottoNumberGenerator.AssemblyInfo.cs
+D:\Kreimben Repository\C#\교재\LottoNumberGenerator\LottoNumberGenerator\obj\Debug\netcoreapp2.1\LottoNumberGenerator.dll
+D:\Kreimben Repository\C#\교재\LottoNumberGenerator\LottoNumberGenerator\obj\Debug\netcoreapp2.1\LottoNumberGenerator.pdb

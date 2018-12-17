@@ -1,0 +1,10 @@
+D:\Kreimben Repository\C#\교재\Gugudan\Gugudan\bin\Debug\netcoreapp2.1\Gugudan.deps.json
+D:\Kreimben Repository\C#\교재\Gugudan\Gugudan\bin\Debug\netcoreapp2.1\Gugudan.runtimeconfig.json
+D:\Kreimben Repository\C#\교재\Gugudan\Gugudan\bin\Debug\netcoreapp2.1\Gugudan.runtimeconfig.dev.json
+D:\Kreimben Repository\C#\교재\Gugudan\Gugudan\bin\Debug\netcoreapp2.1\Gugudan.dll
+D:\Kreimben Repository\C#\교재\Gugudan\Gugudan\bin\Debug\netcoreapp2.1\Gugudan.pdb
+D:\Kreimben Repository\C#\교재\Gugudan\Gugudan\obj\Debug\netcoreapp2.1\Gugudan.csproj.CoreCompileInputs.cache
+D:\Kreimben Repository\C#\교재\Gugudan\Gugudan\obj\Debug\netcoreapp2.1\Gugudan.AssemblyInfoInputs.cache
+D:\Kreimben Repository\C#\교재\Gugudan\Gugudan\obj\Debug\netcoreapp2.1\Gugudan.AssemblyInfo.cs
+D:\Kreimben Repository\C#\교재\Gugudan\Gugudan\obj\Debug\netcoreapp2.1\Gugudan.dll
+D:\Kreimben Repository\C#\교재\Gugudan\Gugudan\obj\Debug\netcoreapp2.1\Gugudan.pdb

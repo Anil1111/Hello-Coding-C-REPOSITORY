@@ -1,0 +1,10 @@
+D:\Kreimben Repository\C#\교재\Echo\Echo\bin\Debug\netcoreapp2.1\Echo.deps.json
+D:\Kreimben Repository\C#\교재\Echo\Echo\bin\Debug\netcoreapp2.1\Echo.runtimeconfig.json
+D:\Kreimben Repository\C#\교재\Echo\Echo\bin\Debug\netcoreapp2.1\Echo.runtimeconfig.dev.json
+D:\Kreimben Repository\C#\교재\Echo\Echo\bin\Debug\netcoreapp2.1\Echo.dll
+D:\Kreimben Repository\C#\교재\Echo\Echo\bin\Debug\netcoreapp2.1\Echo.pdb
+D:\Kreimben Repository\C#\교재\Echo\Echo\obj\Debug\netcoreapp2.1\Echo.csproj.CoreCompileInputs.cache
+D:\Kreimben Repository\C#\교재\Echo\Echo\obj\Debug\netcoreapp2.1\Echo.AssemblyInfoInputs.cache
+D:\Kreimben Repository\C#\교재\Echo\Echo\obj\Debug\netcoreapp2.1\Echo.AssemblyInfo.cs
+D:\Kreimben Repository\C#\교재\Echo\Echo\obj\Debug\netcoreapp2.1\Echo.dll
+D:\Kreimben Repository\C#\교재\Echo\Echo\obj\Debug\netcoreapp2.1\Echo.pdb
