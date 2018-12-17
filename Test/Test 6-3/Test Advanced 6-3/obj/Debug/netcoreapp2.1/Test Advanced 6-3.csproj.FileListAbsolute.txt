@@ -1,0 +1,10 @@
+D:\Kreimben Repository\C#\Test\Test Advanced 6-3\Test Advanced 6-3\bin\Debug\netcoreapp2.1\Test Advanced 6-3.deps.json
+D:\Kreimben Repository\C#\Test\Test Advanced 6-3\Test Advanced 6-3\bin\Debug\netcoreapp2.1\Test Advanced 6-3.runtimeconfig.json
+D:\Kreimben Repository\C#\Test\Test Advanced 6-3\Test Advanced 6-3\bin\Debug\netcoreapp2.1\Test Advanced 6-3.runtimeconfig.dev.json
+D:\Kreimben Repository\C#\Test\Test Advanced 6-3\Test Advanced 6-3\bin\Debug\netcoreapp2.1\Test Advanced 6-3.dll
+D:\Kreimben Repository\C#\Test\Test Advanced 6-3\Test Advanced 6-3\bin\Debug\netcoreapp2.1\Test Advanced 6-3.pdb
+D:\Kreimben Repository\C#\Test\Test Advanced 6-3\Test Advanced 6-3\obj\Debug\netcoreapp2.1\Test Advanced 6-3.csproj.CoreCompileInputs.cache
+D:\Kreimben Repository\C#\Test\Test Advanced 6-3\Test Advanced 6-3\obj\Debug\netcoreapp2.1\Test Advanced 6-3.AssemblyInfoInputs.cache
+D:\Kreimben Repository\C#\Test\Test Advanced 6-3\Test Advanced 6-3\obj\Debug\netcoreapp2.1\Test Advanced 6-3.AssemblyInfo.cs
+D:\Kreimben Repository\C#\Test\Test Advanced 6-3\Test Advanced 6-3\obj\Debug\netcoreapp2.1\Test Advanced 6-3.dll
+D:\Kreimben Repository\C#\Test\Test Advanced 6-3\Test Advanced 6-3\obj\Debug\netcoreapp2.1\Test Advanced 6-3.pdb

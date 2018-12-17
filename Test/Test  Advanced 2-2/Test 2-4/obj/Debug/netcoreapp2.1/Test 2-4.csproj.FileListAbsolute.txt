@@ -1,0 +1,10 @@
+D:\Kreimben Repository\C#\Test\Test 2-4\Test 2-4\bin\Debug\netcoreapp2.1\Test 2-4.deps.json
+D:\Kreimben Repository\C#\Test\Test 2-4\Test 2-4\bin\Debug\netcoreapp2.1\Test 2-4.runtimeconfig.json
+D:\Kreimben Repository\C#\Test\Test 2-4\Test 2-4\bin\Debug\netcoreapp2.1\Test 2-4.runtimeconfig.dev.json
+D:\Kreimben Repository\C#\Test\Test 2-4\Test 2-4\bin\Debug\netcoreapp2.1\Test 2-4.dll
+D:\Kreimben Repository\C#\Test\Test 2-4\Test 2-4\bin\Debug\netcoreapp2.1\Test 2-4.pdb
+D:\Kreimben Repository\C#\Test\Test 2-4\Test 2-4\obj\Debug\netcoreapp2.1\Test 2-4.csproj.CoreCompileInputs.cache
+D:\Kreimben Repository\C#\Test\Test 2-4\Test 2-4\obj\Debug\netcoreapp2.1\Test 2-4.AssemblyInfoInputs.cache
+D:\Kreimben Repository\C#\Test\Test 2-4\Test 2-4\obj\Debug\netcoreapp2.1\Test 2-4.AssemblyInfo.cs
+D:\Kreimben Repository\C#\Test\Test 2-4\Test 2-4\obj\Debug\netcoreapp2.1\Test 2-4.dll
+D:\Kreimben Repository\C#\Test\Test 2-4\Test 2-4\obj\Debug\netcoreapp2.1\Test 2-4.pdb
