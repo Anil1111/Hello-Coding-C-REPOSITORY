@@ -1,0 +1,11 @@
+D:\Kreimben Repository\C#\교재\DoorLock_6Num_Random\DoorLock_6Num_Random\obj\Debug\netcoreapp2.1\DoorLock_6Num_Random.csprojAssemblyReference.cache
+D:\Kreimben Repository\C#\교재\DoorLock_6Num_Random\DoorLock_6Num_Random\obj\Debug\netcoreapp2.1\DoorLock_6Num_Random.csproj.CoreCompileInputs.cache
+D:\Kreimben Repository\C#\교재\DoorLock_6Num_Random\DoorLock_6Num_Random\obj\Debug\netcoreapp2.1\DoorLock_6Num_Random.AssemblyInfoInputs.cache
+D:\Kreimben Repository\C#\교재\DoorLock_6Num_Random\DoorLock_6Num_Random\obj\Debug\netcoreapp2.1\DoorLock_6Num_Random.AssemblyInfo.cs
+D:\Kreimben Repository\C#\교재\DoorLock_6Num_Random\DoorLock_6Num_Random\bin\Debug\netcoreapp2.1\DoorLock_6Num_Random.deps.json
+D:\Kreimben Repository\C#\교재\DoorLock_6Num_Random\DoorLock_6Num_Random\bin\Debug\netcoreapp2.1\DoorLock_6Num_Random.runtimeconfig.json
+D:\Kreimben Repository\C#\교재\DoorLock_6Num_Random\DoorLock_6Num_Random\bin\Debug\netcoreapp2.1\DoorLock_6Num_Random.runtimeconfig.dev.json
+D:\Kreimben Repository\C#\교재\DoorLock_6Num_Random\DoorLock_6Num_Random\bin\Debug\netcoreapp2.1\DoorLock_6Num_Random.dll
+D:\Kreimben Repository\C#\교재\DoorLock_6Num_Random\DoorLock_6Num_Random\bin\Debug\netcoreapp2.1\DoorLock_6Num_Random.pdb
+D:\Kreimben Repository\C#\교재\DoorLock_6Num_Random\DoorLock_6Num_Random\obj\Debug\netcoreapp2.1\DoorLock_6Num_Random.dll
+D:\Kreimben Repository\C#\교재\DoorLock_6Num_Random\DoorLock_6Num_Random\obj\Debug\netcoreapp2.1\DoorLock_6Num_Random.pdb

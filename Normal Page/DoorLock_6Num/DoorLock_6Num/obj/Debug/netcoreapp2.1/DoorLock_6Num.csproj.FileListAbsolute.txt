@@ -1,0 +1,11 @@
+D:\Kreimben Repository\C#\교재\DoorLock_6Num\DoorLock_6Num\bin\Debug\netcoreapp2.1\DoorLock_6Num.deps.json
+D:\Kreimben Repository\C#\교재\DoorLock_6Num\DoorLock_6Num\bin\Debug\netcoreapp2.1\DoorLock_6Num.runtimeconfig.json
+D:\Kreimben Repository\C#\교재\DoorLock_6Num\DoorLock_6Num\bin\Debug\netcoreapp2.1\DoorLock_6Num.runtimeconfig.dev.json
+D:\Kreimben Repository\C#\교재\DoorLock_6Num\DoorLock_6Num\bin\Debug\netcoreapp2.1\DoorLock_6Num.dll
+D:\Kreimben Repository\C#\교재\DoorLock_6Num\DoorLock_6Num\bin\Debug\netcoreapp2.1\DoorLock_6Num.pdb
+D:\Kreimben Repository\C#\교재\DoorLock_6Num\DoorLock_6Num\obj\Debug\netcoreapp2.1\DoorLock_6Num.csprojAssemblyReference.cache
+D:\Kreimben Repository\C#\교재\DoorLock_6Num\DoorLock_6Num\obj\Debug\netcoreapp2.1\DoorLock_6Num.csproj.CoreCompileInputs.cache
+D:\Kreimben Repository\C#\교재\DoorLock_6Num\DoorLock_6Num\obj\Debug\netcoreapp2.1\DoorLock_6Num.AssemblyInfoInputs.cache
+D:\Kreimben Repository\C#\교재\DoorLock_6Num\DoorLock_6Num\obj\Debug\netcoreapp2.1\DoorLock_6Num.AssemblyInfo.cs
+D:\Kreimben Repository\C#\교재\DoorLock_6Num\DoorLock_6Num\obj\Debug\netcoreapp2.1\DoorLock_6Num.dll
+D:\Kreimben Repository\C#\교재\DoorLock_6Num\DoorLock_6Num\obj\Debug\netcoreapp2.1\DoorLock_6Num.pdb

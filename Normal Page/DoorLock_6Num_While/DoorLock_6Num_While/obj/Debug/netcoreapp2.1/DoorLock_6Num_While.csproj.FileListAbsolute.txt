@@ -1,0 +1,11 @@
+D:\Kreimben Repository\C#\Test\DoorLock_6Num_While\DoorLock_6Num_While\bin\Debug\netcoreapp2.1\DoorLock_6Num_While.deps.json
+D:\Kreimben Repository\C#\Test\DoorLock_6Num_While\DoorLock_6Num_While\bin\Debug\netcoreapp2.1\DoorLock_6Num_While.runtimeconfig.json
+D:\Kreimben Repository\C#\Test\DoorLock_6Num_While\DoorLock_6Num_While\bin\Debug\netcoreapp2.1\DoorLock_6Num_While.runtimeconfig.dev.json
+D:\Kreimben Repository\C#\Test\DoorLock_6Num_While\DoorLock_6Num_While\bin\Debug\netcoreapp2.1\DoorLock_6Num_While.dll
+D:\Kreimben Repository\C#\Test\DoorLock_6Num_While\DoorLock_6Num_While\bin\Debug\netcoreapp2.1\DoorLock_6Num_While.pdb
+D:\Kreimben Repository\C#\Test\DoorLock_6Num_While\DoorLock_6Num_While\obj\Debug\netcoreapp2.1\DoorLock_6Num_While.csprojAssemblyReference.cache
+D:\Kreimben Repository\C#\Test\DoorLock_6Num_While\DoorLock_6Num_While\obj\Debug\netcoreapp2.1\DoorLock_6Num_While.csproj.CoreCompileInputs.cache
+D:\Kreimben Repository\C#\Test\DoorLock_6Num_While\DoorLock_6Num_While\obj\Debug\netcoreapp2.1\DoorLock_6Num_While.AssemblyInfoInputs.cache
+D:\Kreimben Repository\C#\Test\DoorLock_6Num_While\DoorLock_6Num_While\obj\Debug\netcoreapp2.1\DoorLock_6Num_While.AssemblyInfo.cs
+D:\Kreimben Repository\C#\Test\DoorLock_6Num_While\DoorLock_6Num_While\obj\Debug\netcoreapp2.1\DoorLock_6Num_While.dll
+D:\Kreimben Repository\C#\Test\DoorLock_6Num_While\DoorLock_6Num_While\obj\Debug\netcoreapp2.1\DoorLock_6Num_While.pdb
