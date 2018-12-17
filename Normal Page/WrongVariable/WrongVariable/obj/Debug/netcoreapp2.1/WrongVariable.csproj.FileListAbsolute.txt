@@ -1,0 +1,3 @@
+D:\Kreimben Repository\C#\교재\WrongVariable\WrongVariable\obj\Debug\netcoreapp2.1\WrongVariable.csproj.CoreCompileInputs.cache
+D:\Kreimben Repository\C#\교재\WrongVariable\WrongVariable\obj\Debug\netcoreapp2.1\WrongVariable.AssemblyInfoInputs.cache
+D:\Kreimben Repository\C#\교재\WrongVariable\WrongVariable\obj\Debug\netcoreapp2.1\WrongVariable.AssemblyInfo.cs
